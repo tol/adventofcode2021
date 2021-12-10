@@ -1,6 +1,6 @@
 import java.io.File
 
-object Day22 {
+object Day2_2 {
 
   @JvmStatic
   fun main(args: Array<String>) {
